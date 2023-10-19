@@ -64,12 +64,12 @@ nav ul li a{
   
           background-position: center;
           background-size: cover;
-          background-image: url("/dance_studio/Dance_Studio/images/bollywood6.png");
+          background-image: url("/Dance_Studio/images/bollywood6.png");
 
 
         }
         .header-container{
-          padding:10px;
+          
         }
         .header-title{
             text-align: center;
@@ -253,3 +253,27 @@ nav ul li a{
         transition: 0.5s;
         color: rgb(137, 137, 205);
     }
+    @media screen (max-width:640px) {
+      body{
+       background-image: url("/Dance_Studio/images/classic2.png");
+       background-position: 0px;
+       background-size: cover;
+       height: auto;
+       width: 600px;
+       margin: 0px;
+       padding: 0px;
+      }
+
+      .logo{
+       width:-80px;
+       height: 50px;
+       cursor: pointer;
+       margin-left: 5x;
+     }
+
+     .header-title{
+       font-size: 10px;
+       margin-top: -40px;
+     }
+   
+ }
