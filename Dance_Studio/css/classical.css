@@ -4,7 +4,7 @@
   padding: 0;
 }
 body{
-  background-image: url("/Dance_Studio/images/classic2.png");
+  background-image:  url(../images/classic2.png);
   background-position: 0px;
   background-size: cover;
   height: 300vh;
