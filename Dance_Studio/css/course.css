@@ -187,25 +187,4 @@ nav ul li a{
     .foot-follow{
         text-align: justify;
     }
-    @media only screen and (max-width:600px){
-        .header-container{
-            margin-left: auto;
-            margin-right: auto;
-        }
-        .menu-btn{
-            display:block;
-            margin:10px;
-            width:100%;
-            text-align:center;
-        }
-        .logo{
-            width:250px;
-        }
-        .name{
-            font-size:30px;
-        }
-        .navbar{
-            flex-direction: column;
-        }
-    }
        
