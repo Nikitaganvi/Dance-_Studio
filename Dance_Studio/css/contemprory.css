@@ -28,6 +28,7 @@ body{
 }
 .menu-btn{
   font-size: 25px;
+  color: aliceblue;
 }
 .menu-btn:hover{
   box-shadow: 2px 2px 15px 2px #ff77cd ;
@@ -216,8 +217,9 @@ nav ul li a{
 }
 .footer{
   margin-top: 60px;
-  width: 83%;
+  width: 2000px;
   padding: 100px 10%;
+  padding-left: 200px 10%;
   background: #333;
   color: #efefef;
   display: flex;
