@@ -88,7 +88,9 @@ nav ul li a{
  .courses-card{
      border:#996633 double;
      margin-left: 3px;
-     margin-top: 100px;
+     margin-top: 50px;
+     padding-top: 50px;
+     padding-bottom: 50px;
      border-radius: 10px;
      width: 300px;
      margin-left: 10PX;
@@ -269,3 +271,13 @@ form button{
   transition: 0.5s;
   color: rgb(137, 137, 205);
 }
+.instagram{
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  background-color: white;
+  color: #996633;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ }
