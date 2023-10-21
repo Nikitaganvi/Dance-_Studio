@@ -28,7 +28,7 @@ body{
 }
 .menu-btn{
   font-size: 25px;
-  color: aliceblue;
+  color:white;
 }
 .menu-btn:hover{
   box-shadow: 2px 2px 15px 2px #ff77cd ;
